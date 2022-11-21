@@ -83,11 +83,12 @@
 
 .text__button {
     display: block;
+    margin-bottom: 15px
 }
 
 .text__textarea {
     display: block;
-    margin-bottom: 30px;
+    margin-bottom: 15px;
     margin-top: 15px;
 }
 
